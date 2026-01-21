@@ -23,5 +23,13 @@
       "reacts": { "⚡": 3 },
       "hasComms": true
     }
+    {
+      "id": 103,
+      "text": "Привет всем",
+      "time": "15:45",
+      "reacts": { "⚡": 3 },
+      "hasComms": true
+    }
   ]
+
 }
